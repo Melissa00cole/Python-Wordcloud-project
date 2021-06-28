@@ -1,7 +1,7 @@
 # Python-Wordcloud-project
-this project is from the Crash course on Python final from the Google certification.
-The goal of this project was to upload your own .txt file to create an automated Wordcloud using Python.
-For my .txt file I chose to use a poem. The code was specifically made to avoid uninteresting words and punctuation for the most interesting output.
+this project is from the Google IT Automation with Python Professional Certificate program: "Crash course on Python".
+The goal of this project final was to upload your own .txt file to create an automated Wordcloud using Python.
+For my .txt file I chose to use a poem from the book "Fables of flowers for the female sex". The code was specifically made to avoid uninteresting words and punctuation for the most interesting output.
 
 Below you will see the Final output of the Wordcloud code.
 
